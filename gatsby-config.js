@@ -1,4 +1,4 @@
-const siteUrl = 'https://olegchursin.com';
+const siteUrl = 'https://cool-gatsby-starter.netlify.app/';
 
 const meta = {
   title: 'Cool Gatsby Starter',

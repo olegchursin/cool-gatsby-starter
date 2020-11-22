@@ -1,0 +1,18 @@
+{
+  "include": ["./src/**/*"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "jsx": "react",
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
